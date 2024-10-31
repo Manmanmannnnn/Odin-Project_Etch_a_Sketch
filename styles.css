@@ -2,6 +2,10 @@ h1{
   text-align: center;
 }
 
+.controls{
+  margin:50px;
+}
+
 .container{
   
   display:flex;
@@ -9,7 +13,7 @@ h1{
   flex-wrap: wrap;
   flex:1;
   align-items: flex-start;
-  border: 5px solid rgb(233, 191, 5);
+  border: 8px solid rgba(233, 191, 5, 0.726);
   width:500px;
   height: 500px;
   margin:auto;
