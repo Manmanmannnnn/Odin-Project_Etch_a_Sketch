@@ -1,21 +1,19 @@
-h1{
+h1 {
   text-align: center;
 }
 
-.controls{
-  margin:50px;
+.controls {
+  margin: 50px;
 }
 
-.container{
-  
-  display:flex;
+.container {
+  display: flex;
   justify-content: flex-start;
   flex-wrap: wrap;
-  flex:1;
+  flex: 1;
   align-items: flex-start;
   border: 8px solid rgba(233, 191, 5, 0.726);
-  width:500px;
+  width: 500px;
   height: 500px;
-  margin:auto;
-
+  margin: auto;
 }
